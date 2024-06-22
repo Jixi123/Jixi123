@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Jixiang Li, a junior at Carnegie Mellon University double majoring in Computer Science and Robotics. In addition to research, I have experience working on a wide variety of robotics projects, including autonomous racecars, agricultural robots, and MoonRanger, a student-built lunar rover. 
+
 <!--
 **Jixi123/Jixi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
