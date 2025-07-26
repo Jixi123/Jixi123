@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Jixiang Li, a junior at Carnegie Mellon University double majoring in Computer Science and Robotics. In addition to research, I have experience working on a wide variety of robotics projects including autonomous racecars, agricultural robots, and MoonRanger, a student-built lunar rover, and have worked with both Python and C++. 
+I'm Jixiang Li, a senior at Carnegie Mellon University double majoring in Computer Science and Robotics. In addition to research, I have experience working on a wide variety of robotics projects including autonomous racecars, agricultural robots, and MoonRanger, a student-built lunar rover, and have worked with both Python and C++. 
 
-I've had industry experience working at Amazon Robotics and Hy-Vee as software engineer interns, and am currently looking for Ai/Robotics related software engineering intern roles for the summer of 2025. Feel free to reach out!
+I've had industry experience working at Amazon Robotics and Hy-Vee as software engineer interns, and am currently looking for Ai/Robotics related software engineering new grad roles for 2026. Feel free to reach out!
 
 <!--
 **Jixi123/Jixi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
